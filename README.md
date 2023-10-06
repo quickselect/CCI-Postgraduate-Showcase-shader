@@ -1,5 +1,5 @@
 # CCI-Postgraduate-Showcase-shader
-![screenshot taken from the shadertoy](../img.png)
+![screenshot taken from the shadertoy](https://github.com/quickselect/CCI-Postgraduate-Showcase-shader/blob/main/img.png)
 
 This is an attempt to recreate the CCI Postgraduate Showcase (2020) shader.  
 I have combined these shaders:    
